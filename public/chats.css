@@ -1,0 +1,11 @@
+.box{
+    background-color: rgb(80, 60, 167);
+    display:inline-block;
+}
+.content{
+    color: white;
+}
+.msg{
+    background-color: rgb(228, 228, 59);
+    color: black;
+}
